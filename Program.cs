@@ -63,8 +63,6 @@ namespace GameGuessTheNumber
                         consoleWriter.WriteToConsole($"Осталось попыток: {settings.maxAttempts - UserAttempts}.");
                     }
                 }
-
-
             }
         }
     }
